@@ -1,6 +1,9 @@
 # SmartContractArrayUtil
 BCDV 4028 Advance Smart Contract
 
+Lab 1: Array Manipulation
+![image](https://github.com/jonasgodfrey/SmartContractArrayUtil/assets/41231839/6383126e-0d4f-4542-8116-862d6d4c6954)
+
 
 Lab 2
 Q2:
